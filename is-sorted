@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+diff -q "$1" <(sort "$1")

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+regex="((?:^|\n)$1)"
+shift
+sort-by-regex-chunk "$regex" "$@"
