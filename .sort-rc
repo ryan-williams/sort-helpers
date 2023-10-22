@@ -40,7 +40,8 @@ defn snrk7 sort -nrk7
 defn shr sort -hr
 defn srh sort -rh
 defn snh sort -nh
-defn shn sort -hn
+# Used by ssh/set_hostname
+# defn shn sort -hn
 
 defn sh1 sort -h
 defn shk sort -hk
