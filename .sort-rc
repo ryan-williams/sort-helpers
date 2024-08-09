@@ -10,6 +10,12 @@ defn sk2 sort -k2
 defn sk3 sort -k3
 defn sk4 sort -k4
 defn sn sort -n
+defn sn2 sort -nk2
+defn sn3 sort -nk3
+defn sn4 sort -nk4
+defn sn5 sort -nk5
+defn sn6 sort -nk6
+defn sn7 sort -nk7
 defn snr sort -nr
 defn srn sort -rn
 
