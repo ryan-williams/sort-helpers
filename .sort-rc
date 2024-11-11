@@ -20,6 +20,7 @@ defn snr sort -nr
 defn srn sort -rn
 
 defn snk sort -nk
+defn snk1 sort -nk1
 defn snk2 sort -nk2
 defn snk3 sort -nk3
 defn snk4 sort -nk4
